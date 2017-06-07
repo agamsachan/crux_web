@@ -1,0 +1,58 @@
+input.radio{
+	margin-right: 0px;
+}
+a,h2
+{
+	margin: 0px 10px 0px 0px;
+	overflow: hidden;
+	padding: 0px;
+	text-align: right;
+}
+textarea
+{
+	resize: none;
+}
+input[type=text]:focus {
+    background-color: orange;
+    border-radius: 8px;
+}
+input[type=email]:focus {
+    background-color: orange;
+    border-radius: 8px;
+}
+
+#block
+{
+	background-color: #F4F3F3;
+	padding-top: 15px;
+	padding-right: 50px;
+	padding-left: 25px;
+	padding-bottom: 10px;
+	margin: 20px 300px 20px 300px;
+	width:615px;
+  	height:615px;
+	border: solid black;
+}
+input,i,select,textarea,img,h3
+{
+	margin: 10px;
+}
+select
+{
+	padding-right: 75px;
+	padding-left: 0px;
+	cursor: pointer;
+	
+}
+input.submit{
+	padding: 5px 20px 5px 20px;
+	cursor: pointer;
+}
+.stud
+{
+	margin-top: 30px;
+}
+body
+{
+	background-color: #D7CFCE;
+}
